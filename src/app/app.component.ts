@@ -24,5 +24,4 @@ export class AppComponent {
     'https://image-optimization-app.vercel.app/assets/pizza-13.jpg',
     'https://image-optimization-app.vercel.app/assets/pizza-14.jpg',
   ];
-
 }
